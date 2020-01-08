@@ -1,0 +1,10 @@
+^Makefile$
+^\.travis\.yml$
+^.editorconfig$
+^.ignore$
+^bookdown$
+^serve$
+^.*\.Rproj$
+^\.Rproj\.user$
+^usecases$
+^attic$
